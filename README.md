@@ -8,8 +8,8 @@ Welcome to MyML-Journey! This repository serves as a documentation of my learnin
 
 🔍 Repository Structure
 
-	•	datasets/: Contains datasets used throughout the projects and exercises.
-	•	notebooks/: Jupyter notebooks for exploratory data analysis and model development.
-	•	scripts/: Python scripts for model training, evaluation, and deployment.
-	•	projects/: Completed machine learning projects showcasing different approaches and techniques.
-	•	notes/: Written summaries of machine learning concepts, algorithms, and techniques.
+	•	datasets: Contains datasets used throughout the projects and exercises.
+	•	notebooks: Jupyter notebooks for exploratory data analysis and model development.
+	•	scripts: Python scripts for model training, evaluation, and deployment.
+	•	projects: Completed machine learning projects showcasing different approaches and techniques.
+	•	notes: Written summaries of machine learning concepts, algorithms, and techniques.
